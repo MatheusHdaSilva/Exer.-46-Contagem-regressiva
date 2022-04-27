@@ -2,3 +2,4 @@ Para simular uma contagem regressiva, é importado a função sleep
 capaz de fazer com o programa atrasar a aparição dos elementos na tela.
 informando ao comando sleep que atrasa os elementos de resposta do cód em 1seg.
 fica o efeito como se fosse uma cagem de virada de ano.
+Com estrutura de cor simples no final
